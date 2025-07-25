@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kid-avi&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/kid-avi?label=Follow&style=social" />
+</p>
+
 # 🦇 Hi, I'm Avinash (aka KID)
 
 🎓 B.Tech CSE | AI/ML Student | 💻 Dev Learner  
