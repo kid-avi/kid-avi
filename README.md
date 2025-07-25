@@ -18,8 +18,11 @@
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kid-avi&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kid-avi&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kid-avi&theme=tokyonight" alt="GitHub Streak"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kid-avi&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
